@@ -1,0 +1,343 @@
+.close-button {
+    width: 30px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    margin: 10px;
+    border: none;
+    background-color: red; /* Red background color */
+    cursor: pointer;
+    font-weight: bold; /* Make the text bold */
+    color: white; /* White text color for better visibility on red background */
+}
+
+.button-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%; /* Adjust width as needed */
+}
+
+.modal {
+    display: none; /* Hide the modal by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgba(0, 0, 0, 0.6); /* Transparent black background */
+}
+
+.modal.active {
+    display: block; /* Show the modal when active */
+}
+
+.modal-content {
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 400px; /* Adjust width as needed */
+    background-color: #fefefe;
+    animation-name: modal-appear;
+    animation-duration: 0.3s;
+}
+
+@keyframes modal-appear {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.modal-header h2 {
+    margin: 0;
+}
+
+.modal-header button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.modal-body {
+    padding: 20px;
+}
+
+.modal-footer {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+}
+
+.modal-footer button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.modal-footer button.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.modal-footer button.btn-primary:hover {
+    background-color: #0069d9;
+}
+
+.image-frame {
+    display: inline-block; /* Allow inline positioning */
+    position: relative;  /* Needed for pseudo-elements */
+    margin: 10px;  /* Add some margin for spacing */
+    padding: 5px;  /* Create space between image and border */
+    border: 2px solid #ddd;  /* Solid border color */
+    border-radius: 5px;  /* Rounded corners for the frame */
+}
+
+.image-frame::after {
+    content: "";
+    position: absolute; /* Create an overlay element */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* Add a subtle shadow effect (optional) */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    z-index: -1; /* Place the overlay behind the image */
+}
+
+.signature-container {
+    margin: 7px;
+    display: flex;
+    opacity: 0.85;
+    width: 100%;
+    font-family: Arial, sans-serif; /* Specify a preferred font family */
+    background-color: white; /* Light gray background */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle drop shadow */
+    line-height: 1.5; /* Adjust line spacing for readability */
+}
+
+.signature-container h3 {
+    margin-bottom: 5px; /* Add some space below the heading */
+    font-size: 16px; /* Set heading font size */
+    font-weight: bold; /* Make the heading bold */
+}
+
+.signature-container p {
+    margin-top: 0; /* Remove default top margin */
+    font-size: 14px; /* Set body text size */
+}
+
+#video {
+    position: fixed;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+}
+
+.faculty-text {
+    font-family: 'Dancing Script', cursive; /* Elegant, lighter cursive font */
+    font-weight: 400; /* Light weight for a delicate look */
+    margin: 0;
+    font-size: 30px !important;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1); /* Very subtle shadow for depth */
+    color: #256661; /* Deep purple for a classy feel */
+    text-align: center;
+    line-height: 80px;
+    flex: 1;
+}
+
+.signature-text {
+    font-family: 'Dancing Script', cursive; /* Elegant, lighter cursive font */
+    font-weight: 300; /* Light weight for a delicate look */
+    margin: 0;
+    font-size: 1rem; /* Adjust font size as needed */
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1); /* Very subtle shadow for depth */
+    color: #337e7a; /* Deep purple for a classy feel */
+    text-align: left;
+    margin-left: 10px;
+    flex: 0.2;
+}
+
+.ps__scrollbar-y { /* Targets the vertical scrollbar container */
+    width: 1px; /* Adjust width for scrollbar thickness */
+}
+
+.ps__scrollbar-y .ps__thumb-y { /* Targets the scrollbar thumb */
+    background-color: #D62929; /* Change thumb color */
+    border-radius: 5px; /* Add rounded corners */
+}
+
+.chat-container {
+    background-color: white; /* Add some padding for better visuals */
+    border-radius: 5px; /* Add a slight border radius for aesthetics (optional) */
+    height: 89.3vh; /* Adjust height based on your needs */
+    width: 100%;
+    overflow-y: auto; /* Enable vertical scrolling */
+    overflow-x: hidden; /* Enable vertical scrolling */
+}
+
+.red-button {
+    margin: 10px;
+    background-color: #347e7b;  /* Light blue */
+    color: white;
+    padding: 20px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.2s ease-in-out; /* Add a smooth hover effect */
+}
+
+.brown-button {
+    margin: 10px;
+    flex: 1;
+    background-color: #b37b30;  /* Light blue */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.2s ease-in-out; /* Add a smooth hover effect */
+}
+
+.blue-button {
+    margin: 10px;
+    flex: 1;
+    background-color: #1c63b0;  /* Light blue */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.2s ease-in-out; /* Add a smooth hover effect */
+}
+
+.blue-button:hover {
+    background-color: #177dff;  /* Darken blue on hover */
+}
+
+.chat-content {
+    opacity: 0.85;
+    display: flex; /* Enable flexbox for potential layout within chat content */
+    flex-direction: column; /* Stack chat container and input container vertically */
+    flex: 1; /* Make chat content flexible to fill remaining space */
+}
+
+.app-container {
+    display: flex;
+}
+
+.sidebar {
+    opacity: 0.95;
+    width: 250px; /* Set the desired sidebar width */
+    height: 92vh; /* Set the sidebar height to 100% viewport height */
+    background-color: #0b417b; /* Set background color (optional) */
+    border-right: 1px solid #ddd; /* Optional border */
+    display: flex; /* Enable flexbox for potential vertical layout within the sidebar */
+    flex-direction: column; /* Set vertical stacking for sidebar content */
+    overflow-y: auto;
+}
+
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.input-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+}
+
+.input-container input {
+    background-color: #c09249;
+    flex-grow: 1;
+    height: 22px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.input-container button {
+    background-color: #1c63b0;
+    height: 40px;
+    width: 100px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.message-cloud {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 10px;
+    position: relative;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.sent {
+    background-color: rgb(64, 133, 130);
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Verdana";
+}
+
+.received {
+    background-color: rgb(31, 101, 177);
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Verdana";
+}
+
+.sent:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 100%;
+    width: 0;
+    height: 0;
+    border: 10px solid transparent;
+    border-bottom-color: #8cb6ea;
+    border-left: 10px solid #7cabea;
+}
+
+.received:before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    right: 100%;
+    width: 0;
+    height: 0;
+    border: 10px solid transparent;
+    border-bottom-color: #ddd;
+    border-right: 10px solid #ddd;
+}
+
+.chat-message-box {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: 10px auto;
+}
