@@ -1,2 +1,2 @@
 # Scala-Chatbot
-Chatbot with web Interface built with Scala,
+Chatbot with web Interface built with Scala.
