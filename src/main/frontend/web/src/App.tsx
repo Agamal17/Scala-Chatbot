@@ -131,7 +131,10 @@ function App() {
                     <div
                         className={ idx%2 ? 'message-cloud received' : 'message-cloud sent'}
                     >
-                      <p>{e}</p>
+                      <p>{
+                        // @ts-ignore
+                        e.split('\\n').map( item => <p>{item}</p>)
+                      }</p>
                     </div>
                 ))}
               </div>
