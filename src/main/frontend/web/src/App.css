@@ -1,4 +1,5 @@
 .close-button {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3); /* Subtle shadow */
     width: 30px;
     display: inline-flex;
     align-items: center;
@@ -18,7 +19,6 @@
     justify-content: space-between;
     width: 100%; /* Adjust width as needed */
 }
-
 .modal {
     display: none; /* Hide the modal by default */
     position: fixed; /* Stay in place */
@@ -28,7 +28,7 @@
     width: 100%; /* Full width */
     height: 100%; /* Full height */
     overflow: auto; /* Enable scroll if needed */
-    background-color: rgba(0, 0, 0, 0.6); /* Transparent black background */
+    background-color: rgba(0, 0, 0, 0.4); /* Transparent black background */
 }
 
 .modal.active {
@@ -38,9 +38,12 @@
 .modal-content {
     margin: 15% auto; /* 15% from the top and centered */
     padding: 20px;
-    border: 1px solid #888;
+    border: none; /* Remove default border for Material Design style */
+    /* Use box-shadow for subtle elevation */
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
     width: 400px; /* Adjust width as needed */
-    background-color: #fefefe;
+    background-color: #fff; /* White background */
+    border-radius: 4px; /* Rounded corners */
     animation-name: modal-appear;
     animation-duration: 0.3s;
 }
@@ -58,28 +61,54 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-bottom: 10px;
-    border-bottom: 1px solid #ddd;
+    padding-bottom: 16px; /* Adjust padding based on content */
+    border-bottom: 1px solid #ddd; /* Optional light border */
+}
+
+.modal-header button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5); /* Subtle shadow */
 }
 
 .modal-header h2 {
     margin: 0;
+    font-family: Verdana;
+    font-size: 25px; /* Adjust font size */
+    font-weight: 500; /* Medium font weight */
 }
 
-.modal-header button {
+.modal-header button.close {
     border: none;
     background-color: transparent;
     cursor: pointer;
+    font-size: 1.5rem; /* Adjust font size for close icon */
+    font-weight: bold; /* Bold font weight for close icon */
+    outline: none; /* Remove outline on focus */
 }
 
 .modal-body {
-    padding: 20px;
+    padding: 16px; /* Adjust padding based on content */
+}
+
+.modal-body input {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    flex-grow: 1;
+    height: 22px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 10px;
+    color: black;
+    font-size: 20px;
 }
 
 .modal-footer {
     display: flex;
     justify-content: flex-end;
-    padding: 10px;
+    padding: 16px; /* Adjust padding based on content */
 }
 
 .modal-footer button {
@@ -87,6 +116,8 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5); /* Subtle shadow */
+
 }
 
 .modal-footer button.btn-primary {
@@ -99,6 +130,8 @@
 }
 
 .image-frame {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5); /* Subtle shadow */
+
     display: inline-block; /* Allow inline positioning */
     position: relative;  /* Needed for pseudo-elements */
     margin: 10px;  /* Add some margin for spacing */
@@ -149,7 +182,7 @@
 }
 
 .faculty-text {
-    font-family: 'Dancing Script', cursive; /* Elegant, lighter cursive font */
+    font-family: 'Dancing Script'; /* Elegant, lighter cursive font */
     font-weight: 400; /* Light weight for a delicate look */
     margin: 0;
     font-size: 30px !important;
@@ -191,6 +224,8 @@
 }
 
 .red-button {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3); /* Subtle shadow */
+
     margin: 10px;
     background-color: #347e7b;  /* Light blue */
     color: white;
@@ -203,6 +238,8 @@
 }
 
 .brown-button {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3); /* Subtle shadow */
+
     margin: 10px;
     flex: 1;
     background-color: #b37b30;  /* Light blue */
@@ -216,6 +253,8 @@
 }
 
 .blue-button {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5); /* Subtle shadow */
+
     margin: 10px;
     flex: 1;
     background-color: #1c63b0;  /* Light blue */
@@ -251,8 +290,7 @@
     border-right: 1px solid #ddd; /* Optional border */
     display: flex; /* Enable flexbox for potential vertical layout within the sidebar */
     flex-direction: column; /* Set vertical stacking for sidebar content */
-    overflow-y: auto;
-}
+    overflow-y: auto;}
 
 canvas {
     position: fixed;
@@ -268,6 +306,8 @@ canvas {
 }
 
 .input-container input {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5); /* Subtle shadow */
+
     background-color: #c09249;
     flex-grow: 1;
     height: 22px;
@@ -275,6 +315,8 @@ canvas {
     border-radius: 5px;
     padding: 10px;
     margin-right: 10px;
+    color: white;
+    font-size: 20px;
 }
 
 .input-container button {
@@ -286,6 +328,8 @@ canvas {
     border-radius: 5px;
     padding: 5px 10px;
     cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5); /* Subtle shadow */
+
 }
 
 .message-cloud {
@@ -300,6 +344,7 @@ canvas {
 .sent {
     background-color: rgb(64, 133, 130);
     color: #ffffff;
+    text-align: end;
     font-size: 20px;
     font-family: "Verdana";
 }
@@ -319,8 +364,8 @@ canvas {
     width: 0;
     height: 0;
     border: 10px solid transparent;
-    border-bottom-color: #8cb6ea;
-    border-left: 10px solid #7cabea;
+    border-bottom-color: #5d9895;
+    border-left: 10px solid #5d9895;
 }
 
 .received:before {
@@ -331,7 +376,7 @@ canvas {
     width: 0;
     height: 0;
     border: 10px solid transparent;
-    border-bottom-color: #ddd;
+    border-bottom-color: #417dbd;
     border-right: 10px solid #ddd;
 }
 
