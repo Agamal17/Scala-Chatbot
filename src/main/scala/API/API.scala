@@ -15,6 +15,7 @@ import backend.getChat
 import backend.getChats
 import backend.generateResponse
 import backend.createChat
+import backend.deleteChat
 import org.http4s.dsl.Http4sDsl
 
 case class chatName(name: String)
@@ -27,27 +28,27 @@ object Message {
   implicit val decoder: EntityDecoder[IO, Message] = jsonOf[IO, Message]
 }
 
-object API extends Http4sDsl[IO]{
-  val service: HttpRoutes[IO] = HttpRoutes.of[IO] {
+val service: HttpRoutes[IO] = HttpRoutes.of[IO] {
 
-    case GET -> Root / "fetch" / IntVar(id) =>
-      Ok(getChat(id).asJson.noSpaces)
+  case GET -> Root / "fetch" / IntVar(id) =>
+    Ok(getChat(id).asJson.noSpaces)
 
-    case GET -> Root / "id"  =>
-        Ok(getID.asJson.noSpaces)
+  case GET -> Root / "id"  =>
+    Ok(getID.asJson.noSpaces)
 
-    case GET -> Root / "chats"  =>
-        Ok(getChats.asJson.noSpaces)
+  case GET -> Root / "chats"  =>
+    Ok(getChats.asJson.noSpaces)
 
+  case DELETE -> Root / "delete" / IntVar(id) =>
+    Ok(deleteChat(id).asJson.noSpaces)
 
-    case req @ POST -> Root / "send" =>
-      req.as[Message].flatMap { message =>
-        Ok(generateResponse(message.msg, message.id).asJson.noSpaces)
-      }
+  case req @ POST -> Root / "send" =>
+    req.as[Message].flatMap { message =>
+      Ok(generateResponse(message.msg, message.id).asJson.noSpaces)
+    }
 
-    case req @ POST -> Root / "create" =>
-      req.as[chatName].flatMap { name =>
-        Ok(createChat(name.name).asJson.noSpaces)
-      }
-  }
+  case req @ POST -> Root / "create" =>
+    req.as[chatName].flatMap { name =>
+      Ok(createChat(name.name).asJson.noSpaces)
+    }
 }
