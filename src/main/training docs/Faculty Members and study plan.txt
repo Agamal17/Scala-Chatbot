@@ -1,0 +1,251 @@
+Program:
+Computing and Information Sciences
+
+Tracks:
+- Computer Science
+- Artificial Intelligence
+- Software Engineering
+- Cybersecurity
+- Data Science and Engineering
+- Graphics and Game Programming
+
+Faculty Members:
+- Prof. Hoda Mokhtar (Dean)
+- Dr. Amal Elgammal (Head of Software Engineering Dept)
+- Prof. Mohamed Elsharkawi
+- Prof. Ihab Ahmed EL-Khodary
+- Dr. Amani Eissa (Assistant Professor)
+- Dr. Basma Hassan (Assistant Professor)
+- Dr. Ayman Ramadan Ali El-Kilany (Assistant Professor)
+- Dr. Nariman Adel Hussein (Assistant Professor)
+- Dr. Ramy Taki El Din (Adjunct Associate Professor)
+- Dr. Mohamed Ismail (Adjunct Assistant Professor)
+- Dr. Cherry Ahmed (Adjunct Assistant Professor)
+- Dr. Fatma ElZahraa (Adjunct Assistant Professor)
+- Prof. Amr El-Sherif (Adjunct Assistant Professor)
+- Dr. Mostafa Kamel (Adjunct Assistant Professor)
+- Prof. Shahira Zaki (Adjunct Prof of Anatomy)
+- Dr. Ahmed Abdelhamid (Adjunct Lecturer)
+- Prof. Ehab Elkhodary (Adjunct Prof of Statistics)
+
+Tentative Study Plan:
+Year 1
+Semester#1
+- CMA111: Single-Valued Calculus (3 credit hours)
+- CPH111: Elementary Physics (3 credit hours)
+- CCS111: Introduction to Computing and Programming (4 credit hours)
+- HUM111: English (3 credit hours)
+- Elective-1 (2 credit hours)
+Total: 15 credit hours
+
+Semester#2
+- CMA112: Multi-Variate Calculus (3 credit hours)
+- CPH112: Advanced Physics (3 credit hours)
+- CCS112: Programming Fundamentals (4 credit hours)
+- HUM221: Entrepreneurship (3 credit hours)
+- Entrepreneurship (3 credit hours)
+Total: 16 credit hours
+
+
+
+
+
+
+Year 2
+Semester#3
+- CCS213: Introduction to Algorithms and Data Structures (4 credit hours)
+- CMA213: Discrete Mathematics (3 credit hours)
+- CST211: Probability and Statistics-1 (3 credit hours)
+- Elective Mathematics (4 credit hours)
+Total: 14 credit hours
+
+Semester#4
+- CCS215: Computational Linear Algebra (4 credit hours)
+- CDE211: Data Analysis (4 credit hours)
+- CCS218: Algorithms and Data Structures (4 credit hours)
+- CCS219: Advanced Programming (4 credit hours)
+Total: 16 credit hours
+
+Year 3
+Semester#5
+- CDE312: Introduction to Database Systems (4 credit hours)
+- CSW311: Program Design and Development (4 credit hours)
+- CAI311: Introduction to Artificial Intelligence (4 credit hours)
+- Elective CS-1 (4 credit hours)
+Total: 16 credit hours
+
+Semester#6
+- CCS316: Introduction to Operating Systems (4 credit hours)
+- CDE324: Big Data Engineering (4 credit hours)
+- CSW312: Introduction to Software Engineering (4 credit hours)
+- Elective CS-2 (4 credit hours)
+Total: 16 credit hours
+
+Year 4
+Semester#7
+- Track Elective-1 (4 credit hours)
+- Track Elective-2 (4 credit hours)
+- Elective Computing-1 (4 credit hours)
+- HUM312: Technical Writing (3 credit hours)
+- Graduation Project-1 (3 credit hours)
+Total: 18 credit hours
+
+Semester#8
+- Track Elective-3 (4 credit hours)
+- Track Elective-4 (4 credit hours)
+- Elective Computing-2 (4 credit hours)
+- HUM312: Technical Writing (3 credit hours)
+- Graduation Project-2 (3 credit hours)
+Total: 15 credit hours
+
+Tentative Study Plan for Data Science and Engineering Track: Year 4
+Semester#7
+- CDE414: Distributed Database Systems (4 credit hours)
+- CDE421: Data Science I: Fundamentals (4 credit hours)
+- Elective Computing-1 (4 credit hours)
+- HUM312: Technical Writing (3 credit hours)
+- Graduation Project-1 (3 credit hours)
+Total: 18 credit hours
+
+
+
+Semester#8
+- CDE413: Architecture and Implementation of Database Management Systems (4 credit hours)
+- CDE422: Data Science II: Big Data Analytics (4 credit hours)
+- Elective Computing-2 (4 credit hours)
+- Graduation Project-2 (3 credit hours)
+Total: 18 credit hours
+
+Tentative Study Plan for Computer Science Track: Year 4
+
+Semester#7
+- CCS424: Advanced Algorithms and Data Structure (4 credit hours)
+- CCS425: Formal Languages and Automata Theory (4 credit hours)
+- Elective Computing-1 (4 credit hours)
+- HUM312: Technical Writing (3 credit hours)
+- Graduation Project-1 (3 credit hours)
+Total: 18 credit hours
+
+Semester#8
+- CCS429: Theory of Programming Languages (4 credit hours)
+- CSW423: Development of Secure Software Systems (4 credit hours)
+- Elective Computing-2 (4 credit hours)
+- Graduation Project-2 (3 credit hours)
+Total: 18 credit hours
+
+Tentative Study Plan for Cyber Security Track: Year 4
+
+Semester#7
+- CCS443: Introduction to Computer Networks (4 credit hours)
+- CCS442: Introduction to Cyber Security (4 credit hours)
+- Elective Computing-1 (4 credit hours)
+- HUM312: Technical Writing (3 credit hours)
+- Graduation Project-1 (3 credit hours)
+Total: 18 credit hours
+
+Semester#8
+- CCS444: Modern Cryptography (4 credit hours)
+- CSW423: Development of Secure Software Systems (4 credit hours)
+- Elective Computing-2 (4 credit hours)
+- Graduation Project-2 (3 credit hours)
+Total: 18 credit hours
+
+
+Tentative Study Plan for Software Engineering Track: Year 4
+Semester#7
+
+- CSW421: Software Engineering-1 (4 credit hours)
+- CSW424: Senior Software Project (4 credit hours)
+- Elective Computing-1 (4 credit hours)
+- HUM312: Technical Writing (3 credit hours)
+- Graduation Project-1 (3 credit hours)
+Total: 18 credit hours
+
+Semester#8
+- CSW422: Software Engineering-2 (4 credit hours)
+- CSW423: Development of Secure Software Systems (4 credit hours)
+- Elective Computing-2 (4 credit hours)
+- Graduation Project-2 (3 credit hours)
+Total: 18 credit hours
+Tentative Study Plan for Artificial Intelligence Track: Year 4
+
+Semester#7
+- CAI422: Machine Learning Fundamentals (4 credit hours)
+- CAI415: Introduction to Intelligent Robotic Systems (4 credit hours)
+- Elective Computing-1 (4 credit hours)
+- HUM312: Technical Writing (3 credit hours)
+- Graduation Project-1 (3 credit hours)
+Total: 18 credit hours
+
+Semester#8
+- CCS435: Computer Vision (4 credit hours)
+- CAI423: Advanced Topics Machine Learning (4 credit hours)
+- Elective Computing-2 (4 credit hours)
+- Graduation Project-2 (3 credit hours)
+Total: 18 credit hours
+
+
+Tentative Study Plan for Graphics, Visualization, and Gaming Track: Year 4
+
+Semester#7
+- CCS432: Computer Graphics I (4 credit hours)
+- CAI422: Machine Learning Fundamentals (4 credit hours)
+- Elective Computing-1 (4 credit hours)
+- HUM312: Technical Writing (3 credit hours)
+- Graduation Project-1 (3 credit hours)
+Total: 18 credit hours
+
+
+Semester#8
+
+- CCS433: Computer Graphics II (4 credit hours)
+- CCS436: Animation & Planning in Games (4 credit hours)
+- Elective Computing-2 (4 credit hours)
+- Graduation Project-2 (3 credit hours)
+Total: 18 credit hours
+
+
+
+Elective Courses Examples:
+
+Distributed Database Systems
+Data Science I: Fundamentals
+Architecture and Implementation of Database Management Systems
+Data Science II: Big Data Analytics
+Visualization
+Spatial Databases
+Recommender Systems
+Operations Research for Data Science
+User Interface Design
+Advanced Algorithms and Data Structure
+Formal Languages and Automata Theory
+Introduction to Compilers
+Advanced Computer Architecture
+Advanced Operating Systems
+Introduction to Parallel Computing
+Introduction to Distributed Systems
+Theory of Programming Languages
+Internet Programming
+Modern Cryptography
+Introduction to Computer Networks
+Introduction to Computer Security
+Coding Theory
+Cryptology and Number Theory
+Development of Secure Software Systems
+Software Engineering I
+Software Engineering II
+Senior Software Project
+Strategic Information Technology Management
+Machine Learning Fundamentals
+Introduction to Intelligent Robotic Systems
+Computer Vision
+Artificial Intelligence I
+Artificial Intelligence II
+Advanced Topics in Machine Learning
+Mathematical Logic for Computer Science
+Computer Graphics I
+Computer Graphics II
+Virtual Reality and 3D Interaction
+Animation & Planning in Games
+Natural Language Processing
+In addition to a summer training that represents 3 credit hours, to be carried out during any summer vacation after the student has passed 88 credit hours.
