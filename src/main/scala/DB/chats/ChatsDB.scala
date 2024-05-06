@@ -7,9 +7,9 @@ object ChatsDB{
     val url = "jdbc:sqlite:src/main/scala/DB/chats/chats.db"
     Class.forName("org.sqlite.JDBC")
 
-    val connection = DriverManager.getConnection(url)
+    val connection: Connection = DriverManager.getConnection(url)
 
-    def createChat(name: String): Unit = {
+    def createChat(name: String): Int = {
       val statement = connection.createStatement()
       val lastID = getLastID+1
       val sql =
@@ -35,14 +35,16 @@ object ChatsDB{
 
       statement.execute(incr)
       statement.close()
+      lastID
     }
 
     def getChats: List[String] = {
       val statement = connection.createStatement()
-      val resultSet = statement.executeQuery("SELECT Name FROM chats")
+      val resultSet = statement.executeQuery("SELECT * FROM chats")
 
       val entriesList = List.newBuilder[String]
       while (resultSet.next()) {
+        entriesList += resultSet.getString("ID")
         entriesList += resultSet.getString("Name")
       }
       resultSet.close()
@@ -92,4 +94,13 @@ object ChatsDB{
       statement.close()
     }
 
+    def deleteChat(ID: Int): Unit = {
+      val statement = connection.createStatement()
+      val query = s"DROP TABLE IF EXISTS '$ID'" // Add IF EXISTS for safety
+      statement.execute(query)
+
+      val nameDel = s"DELETE FROM chats WHERE ID = ${ID}"
+      statement.execute(nameDel)
+      statement.close()
+    }
   }
