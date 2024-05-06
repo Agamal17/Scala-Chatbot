@@ -1,3 +1,5 @@
+# Module responsible for uploading college info to Pinecone vector database
+
 import os
 
 from langchain_community.document_loaders import TextLoader
