@@ -5,7 +5,7 @@ import java.sql._
 object PrefsDB{
   val url = "jdbc:sqlite:src/main/scala/DB/prefs/prefs.db"
   Class.forName("org.sqlite.JDBC")
-  val connection = DriverManager.getConnection(url)
+  val connection: Connection = DriverManager.getConnection(url)
 
   def getPrefs: Option[String] = {
     val statement = connection.createStatement()
@@ -38,6 +38,5 @@ object PrefsDB{
 
     statement.close()
   }
-  println(getPrefs)
 
 }
