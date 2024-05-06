@@ -33,6 +33,15 @@ function App() {
     getChatNames()
   }, [])
 
+  const handleDelete = (ID: number) => {
+    axios.delete(`http://localhost:4000/delete/${ID}`).then(res => {
+          setCurChat(null)
+          setMessages([])
+          // @ts-ignore
+          getChatNames()
+        }
+    )
+  }
 
   const sendQuery = (query: string, ID: number) => {
     const data = {
@@ -40,9 +49,10 @@ function App() {
       msg: query
     }
 
-    axios.post(`http://localhost:4000/send`, data).then(res =>
-        // @ts-ignore
-        setMessages([...messages, query, res.data])
+    axios.post(`http://localhost:4000/send`, data).then(res => {
+          // @ts-ignore
+          setMessages([...messages, query, res.data])
+        }
     ).catch( r =>
         console.log(r)
     )
@@ -51,8 +61,8 @@ function App() {
   const getChatNames = () => {
     axios.get('http://localhost:4000/chats').then(res => {
       let chatList = [];
-      for (let i = 0;i<res.data.length;i++) {
-        let x = new Chat(i+1, res.data[i]);
+      for (let i = 0;i<res.data.length;i+=2) {
+        let x = new Chat(res.data[i], res.data[i+1])
         chatList.push(x);
       }
       // @ts-ignore
@@ -75,9 +85,12 @@ function App() {
       name: chatName
     }
 
-    axios.post(`http://localhost:4000/create`, data).then(res =>
-        // @ts-ignore
-        getChatNames()
+    axios.post(`http://localhost:4000/create`, data).then(res => {
+          getChatNames()
+          let x = new Chat(res.data, chatName)
+          // @ts-ignore
+          setCurChat(x)
+        }
     ).catch( r =>
         console.log(r)
     )
@@ -101,7 +114,10 @@ function App() {
                   // @ts-ignore
                   e.Name
                 }</button>
-                  <button className={'close-button'}>
+                  <button className={'close-button'} onClick={
+                    // @ts-ignore
+                    () => handleDelete(e.ID)
+                  }>
                     <span>X</span>
                   </button>
                 </div>
@@ -125,16 +141,26 @@ function App() {
                   type="text"
                   value={inputValue}
                   onChange={(e) => setInputValue(e.target.value)}
+                  onKeyDown={
+                    (evt) => {
+                      if (curChat === null) return
+                      // @ts-ignore
+                      if (evt.key === 'Enter' && inputValue !== '') { // Check for Enter key and non-empty input
+                        // @ts-ignore
+                        sendQuery(inputValue, curChat.ID)
+                        setInputValue(''); // Clear input after Enter press
+                      }
+                    }
+                  }
               />
               <button onClick={() => {
                 if (curChat === null) return
                 if (inputValue !== '') {
                   // @ts-ignore
                   sendQuery(inputValue, curChat.ID)
-                  // @ts-ignore
-                  setInputValue('');
+                  setInputValue('')
                 }
-              }}>Send</button>
+              }} >Send</button>
             </div>
           </div>
         </div>
