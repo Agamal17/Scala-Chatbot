@@ -1,0 +1,894 @@
+Egypt University of Informatics - Faculty of Computing and Information Sciences Student Handbook
+
+
+
+*  Usage of this Handbook
+Dear Students,
+Welcome to the Faculty of Computing and Information Sciences (CIS). This Student
+Handbook is intended to serve as a general guide for current and prospective students.
+The Handbook is designed to outline both students’ rights and responsibilities. The
+Handbook informs the CIS students of the faculty’s regulations, policies and academics.
+We are sure that during your time as a student you will likely have many queries, so we hope
+that this brief guide will be of some help. If you have any further queries, you are welcome to
+knock the right doors based on your inquiry.
+It is safe to say that CIS Handbook is not a static document, neither is it a contract
+between the faculty and any party or parties. That’s why we make changes in the
+Handbook each year to strengthen our procedures further assist our students with their
+continuous needs. Thus, our dear students should be aware of any changes made that
+might affect their performance academically and socially.
+Admission at the Faculty of Computing and Information Sciences at EUI is considered
+acceptance of the standards specified herein.
+
+We hope that your time as a student at the EUI and, more specifically, at the Faculty of
+Computing and Information Sciences, is successful and enjoyable.
+
+
+*  A Word from the Dean
+Dear future leaders,
+As the Dean of the faculty of Computing and Information Sciences Faculty (CIS), it is my great
+pleasure to welcome you all at Egypt University of Informatics (EUI) in general and to CIS in
+specific. Now that you have joined the faculty of CIS at EUI, it means you have been qualified
+to the next level of your life experience. At EUI, you’ll enjoy every bit of a learning journey
+full of discovery and adventure.
+On behalf of EUI, I would like to assure you that we are all here to support, mentor and
+encourage you during your study at EUI. Our mission regarding education is to provide students
+with the highest academic standards and ensure gaining scientific knowledge and professional
+titles which are in accordance with the requirements of modern and global job market.
+All academic staff members and scholars at the Faculty of Computing and Information Sciences
+are leaders in their fields. I encourage you to get to know them, talk to them, ask them about their
+research and tell them about your own ideas. They will challenge you, guide you and open doors
+to new possibilities, ideas and opportunities.
+We are all here to help you throughout your years at EUI by providing a rich array of
+opportunities to learn & grow to achieve your dreams and to eventually make a difference in the
+world.
+Finally, I’d like to tell you about my open-door policy. You’re welcome any time to come and
+have a warm chat with whenever you need a helping hand and/or advice.
+Prof. Hoda M. O. Mokhtar
+Faculty Dean
+
+
+*  Why Egypt University of Informatics (EUI)?
+• EUI is an ICT-focused university in Egypt.
+• EUI is a non-profit university, established by the Ministry of Communications and
+Information Technology (MCIT).
+• EUI continuously seeks to establish dual degree agreements with top universities
+worldwide, which will grant students (meeting the agreement criteria) both the EUI
+degree and the foreign university degree.
+• Quality Education is guaranteed through aligning our program offerings and curricula
+with world top universities’ offerings.
+
+Faculty of Computing and Information
+Sciences
+• The Faculty of Computing & Information Sciences is one of the faculties of Egypt
+University of Informatics (EUI) which gives it direct link to the Ministry of
+Communications and Information Technology projects and entities existing in the MCIT
+Knowledge City at the New Administrative Capital, which can offer specialized training,
+internships, start-ups incubation, as well as funding of research with the industry.
+• The faculty is unique being a specialized faculty with a full focus on computer science
+and related domains.
+• The faculty bylaw is carefully designed to meet top computing and information sciences
+educational standards.
+• The Faculty of Computing and Information Sciences has incredibly talented faculty
+members who are leaders in their fields.
+
+
+*  Vision, Mission and Goals
+Vision
+To be a leading faculty in the field of computing and information sciences that provides high
+quality academics, research, and consultations.
+
+Mission
+The Faculty of Computing and Information Sciences is committed to provide high quality
+education, and to prepare a new generation of skilled professionals capable to engage in
+various computer science related jobs and to develop technology and services that serve local,
+regional and international needs.
+
+Goals
+- Develop high quality credit hour based academic programs based on creativity, critical
+thinking, and problem-solving skills.
+- Develop reliable, competitive leaders and problem solvers.
+- Provide in-depth understanding of the key concepts and technologies in computer
+science.
+- Help students gain practical and hands-on experience.
+- Be an important contributor to the society through acting as a socially legitimised
+institution to produce knowledge and innovation.
+- Be a source of expertise and vocational identity.
+- Provide cutting-edge research.
+
+
+
+*  Program and Degrees
+Undergraduate Program
+The faculty of Computing and Information Sciences offers one bachelor’s degree program in
+“Computing and Information Sciences.”
+
+International Agreements
+The faculty of Computing and Information Sciences has the following signed agreements:
+1- An undergraduate agreement with the University of Minnesota Twin Cities (ranked #26)
+in Computer Science in US News 2021, the Computer Science Program at the University
+of Minnesota Twin Cities is also ranked among the top 40 programs worldwide* .
+2- A graduate “Professional Master’s Degree in Information Security” agreement
+with Purdue University West Lafayette (ranked #6 in Cyber Security in US. News, in
+2021)
+
+What is the Agreement with the University of Minnesota Twin Cities?
+This is a dual-degree model based on credit transfer. Successful students who meet the
+agreement criteria obtain two bachelor’s degree certificates: a certificate from Egypt University
+of Informatics and another from the University of Minnesota Twin Cities, USA.
+
+
+*  How the agreement works?
+• EUI students study the first 3 years (as Computing and Information Sciences is 4 years)
+at EUI.
+• During this period, EUI student will study up to 3 blended courses from University of
+Minnesota taught by University of Minnesota specialized faculty with EUI faculty
+support. (Blended courses fees are not included in the fees of EUI and will be determined
+by the University of Minnesota)
+• On the 4th year, eligible students will be able to travel and pursue their final year at
+University of Minnesota Twin Cities.
+For more information, please contact the admission office admission@eui.edu.eg
+Who is eligible for the agreement and how to apply?
+To be considered for admission at University of Minnesota, students shall meet the following
+criteria:
+• A student should maintain an EUI CGPA of 3.0 or above for the course the student studies
+during the first 2 years (exclusive of University of Minnesota blended courses)
+• A student must apply by the end of the second academic year through EUI to join the
+agreement (to attend the last year at the University of Minnesota), subject to the
+acceptance of the University of Minnesota.
+• Travelling students will have their full transcripts transferred to the University of
+Minnesota Twin Cities for credit transfer.
+If the student spends the last year at the University of Minnesota, fees for that year will be that
+of the University of Minnesota fees and according to the fees determined by Minnesota
+University Twin Cities, plus administrative fees to paid at EUI.
+
+
+*  Our Strategy
+To achieve our goals, we follow a 4-step strategy:
+
+1- Prepare
+We carefully prepare
+our
+curriculum,
+teaching,
+materials
+and facilities.
+
+2- Engage
+Engage our students into realworld experiences through
+training, projects, teamwork,
+etc. after acquiring rigorous
+understanding of computer
+science concepts and theories.
+
+3- Update
+Always
+update
+our curriculum to
+match the stateof-art (that’s why
+we have tracks)
+
+4- Apply
+We help students
+transform theory
+into practice.
+
+
+*  Faculty Academic Departments
+The faculty of Computing and Information Sciences consists of 4 academic departments that
+work together to provide high quality education in the different domains through talented
+academic staff and up-to-date courses’ curriculum. The academic departments also conduct
+cutting-edge research in their fields of specialization along with interdisciplinary joint research
+work with other departments.
+The departments help achieving the required organizational structure of the faculty through
+providing specialized faculty members. However, all departments participate in a single
+undergraduate program “Computing and Information Sciences” with the strength of each
+department elaborated in the different tracks offered by the faculty that are further discussed in
+the Program Tracks section.
+Each course in the bylaw is assigned a Course Code that indicates the department offering the
+course.
+The academic departments are as follows:
+
+Computer
+Science
+Department
+(CS)
+
+Artificial
+Intelligence
+Department
+(AI)
+
+Data Science
+and
+Engineering
+Department
+(DE)
+
+Software
+Engineering
+Department
+(SW)
+
+
+*  The Credit Hour System
+What is the credit hour system?
+• The Faculty of Computing and Information Sciences adopts the credit hour system. The
+credit hours system gives the student the flexibility in deciding his workload each
+semester.
+• The credit hour system is based on the principle of giving the student the freedom to
+choose the subjects to be studied in order to complete the academic hours required for
+graduation.
+• The credit hour system is based on 2 main pillars: the courses, and the credit hours of
+each course.
+• An academic course (also referred to as course) is weighed based on its assigned number
+of credit hours.
+• The number of hours for a course varies from one course to another based on the
+coursework weight and its weight in the program (number of credit hours of each course
+are clearly stated in the faculty bylaw).
+
+*  Academic Advising
+A key role player in the credit hour system is the “academic advisor”.
+• The Faculty of Computing and Information Sciences provides Academic Advising to
+support your academic progress toward earning your college degree.
+• Each student is assigned an “academic advisor” through the faculty.
+• Academic advising is a process by which a faculty member (i.e., academic advisor) at
+your faculty provides insight and guidance to a student on academic, social, and/or
+personal matters.
+• Questions regarding your career goals, study strategies, class schedules, etc. should be
+discussed with your academic advisor.
+
+
+*  The role of an academic advisor
+The role of the academic advisor is to help you throughout your study trip at the faculty, for
+example:
+• Guide you in choosing the track based on your interests.
+• Guide you in course(s) selection for elective courses.
+• Help you if you have any academic issue or questions.
+
+Key Terminologies in Credit Hour System
+• Credit hour: is a unit that gives weight to an academic course taken.
+• Compulsory and Elective courses: Electives are courses (subjects) you can choose,
+while compulsory courses are mandatory courses that you must study to meet
+your program requirements. Both Compulsory and Elective courses count towards the
+number of credit hours needed to satisfy your graduation requirements.
+• Course prerequisites: A prerequisite means a course or other requirement that a student
+must have taken prior to enrolling in a specific course. When you register for courses the
+registration system will check that you have met the pre- or corequisite required for the
+course you selected.
+• A prerequisite is a means of measuring knowledge to determine whether a student is
+ready to advance to the next level of their college career. This is important for you as a
+student, as enrolling in a course in which you have not met the prerequisite can set you
+up for failure and hinder the academic experience for other students in the course.
+Meeting the prerequisites ensures that you can easily understand the new concepts.
+• Grade Point Average (GPA): is the measure used to summarize your academic
+achievement. It’s meant to score your academic performance (usually on a GPA scale
+between 1.0 and 4.0) during your studies and shows whether your overall grades have
+been high or low. This number is then used to assess whether you meet the standards and
+expectations set by the program.
+• Cumulative Grade Point Average (CGPA): It is usually used to measure the overall
+academic performance of a student. CGPA is calculated by obtaining the mean of the
+GPA that a student is awarded every semester and is divided by the total number of
+credits. (Please refer to section Calculating the GPA and CGPA to learn more about how to
+calculate your GPA and CGPA).
+Letter Grade: At the end of each semester, each students gets a letter grade for each
+course he/she finished. This letter grade is another way to represent the student’s overall
+performance in the course. Letter grades are usually mapped to the corresponding grade
+percentage. (Please refer to the conversion table in the Grading section).
+Regular Academic Semesters: The Fall and the Spring are our official regular academic
+semesters. Each student should register for courses during those semesters unless he has
+an approved excuse.
+Summer Semester: A Summer semester is an optional condensed semester. Summer
+registration is of an extra fee than regular academic semesters. The faculty council
+decides which courses will be offered during the summer and this in turn will be promptly
+announced to students.
+Course Drop: When a student drops a course from his/her schedule, the course is
+completely erased from the student's class schedule. Dropped courses do not appear
+on the student's official academic record (which includes their academic transcript) on
+condition that dropping the course was done following the faculty course dropping
+regulations. Though, if the student drops a compulsory course, he/she must register for
+the course before graduation. If the dropped course is elective, the student may register
+for the same course or any other elective course in a later semester before graduation.
+Course Withdrawal: This option/policy gives an option to students who are struggling
+in a course and/or who have become overwhelmed by their circumstances: it lets students
+minimize the impact on their academic standing, reduce their course load and focus on
+successfully completing their other courses. A student can request a course withdrawal
+during a time window specified in the faculty academic calendar that is usually after the
+end of the course Drop time frame. Course withdrawn will appear in the student’s
+transcript with letter grade “W” but won’t count in the GPA/ CGPA.
+Incomplete Grade: An incomplete grade (I) for any scheduled course may be given at
+the faculty council’s discretion only to students who have attended the course but cannot
+sit for the final examination or cannot complete course requirements due to circumstances
+beyond their control. An approved excuse should be submitted before the exams to be
+granted an Incomplete grade. If accepted, you will retain your course term work and sit
+for the final exam on a later date determined by the faculty council.
+
+
+*  What is the student role in credit hour system?
+Being part of the credit hour system, there are some responsibilities that you are required to
+perform throughout your years of study.
+• At the beginning of each semester, you are required to register for the courses you want
+to attend after consulting your academic advisor. For first year students, the registration
+process is done on your behalf by the registrar office.
+• Courses are either elective or compulsory.
+• To register in a course, you need to satisfy the course prerequisites.
+• You also have the right to withdraw one or more courses after the approval of the
+academic advisor during the allowed time period that is announced in the faculty
+academic calendar at the beginning of each semester.
+How is a student assessed in a credit hour system?
+• Students are evaluated on a frequent basis through different assessment methods.
+• The type and weight of each assessment varies from course to course and is announced
+to students at the beginning of the course.
+• Assessments include assignments, lab reports, quizzes, in-class contribution, project,
+presentations, etc.
+• Each assessment is assigned a deadline that is announced to the students. Students are
+required to submit their tasks before or on the deadline date, else marks will be deducted
+according to course rules.
+
+
+*  Faculty Rules, Procedures, and Policies
+As we follow the credit hour system, the following set of rules, regulations and policies will
+be enforced from the faculty throughout your years of study.
+
+General Policies
+• Once a student is accepted at EUI he will be given a StudentID.
+• Your StudentID is your identity card that has your information and is linked to all your
+records at EUI.
+• Students are not allowed to enter the exam without a valid StudentID. So please have
+your ID with you all the time.
+• Once you are accepted, you are part of the Faculty of Computing and Information
+Sciences community and family. So please help us keep our faculty safe and clean. And
+always take care of the faculty properties, they are yours.
+• Students should follow the university Dress Code policy.
+• Using mobile phones in-class is prohibited as it distracts both the instructor and your
+colleagues.
+• Having a mobile phone during exams is totally prohibited and is considered a cheating
+attempt.
+• Smoking to prohibited in all campus buildings.
+• Wearing a face mask is recommended during your stay at EUI and specially in closed
+rooms. Always remember that your safety is our priority.
+• Students are required to abide to exam rules that are announced before the exams,
+deviating from those rules might expose you to legal problems.
+
+
+
+*  Attendance and Absences
+1- A student should satisfy an attendance percentage threshold of 75% for each course.
+2- If a student cannot fulfil the attendance requirements due to circumstances beyond his
+control, he is required to present the documents that support his excuse, and his request
+will be pending until approved by the faculty council.
+3- Students failing to satisfy the attendance threshold will be prevented from attending the
+course(s) final exam and will automatically get an “F” grade (Fail).
+4- A student who misses the final exam without any prior approved excuse will be
+considered “F” (Fail) in the course(s) he missed and should re-take the course again.
+5- A student who has an emergency and is not able to attend the final exam is eligible for an
+Incomplete grade as long as he satisfies the requirements for an Incomplete grade.
+6- A student shouldn’t miss a course exam more than twice (either 2 consecutive times or
+separate.
+
+Registering and Dropping Courses
+1- A student is required to register for the courses he will attend during a semester at the
+beginning of each academic semester. Course registration remains pending until the
+student gets approval from his academic advisor. (i.e., academic advisors do guide the
+students through the course selection process).
+2- A student is allowed to drop a course after registering for it during the allowed time
+window and upon approval from the academic advisor.
+3- Once you register for the course, the course will be added to your study load and will be
+reflected in your schedule.
+4- For first-year students, your registration is atomically handled through the registrar's
+office, once you get used to the system it’s your responsibility to register your courses
+yourself.
+5- The add/drop process should be completed within the registration/drop time window
+announced by the faculty before the beginning of each semester.
+6- When registering for a course you need to make sure that you fulfill its prerequisites.
+Figure 1 shows the courses’ dependency graph for the first 3 years as the 4th year depends
+on the track and accordingly the electives you’ll choose.
+7- The faculty council decides the minimum required number of registered students to open
+a course for registration.
+8- All registration/drop requests are handled through the Student Information System (SIS)
+of the university using your StudentID.
+9- All registrations and drop requests remain pending until tuition fees are paid, and course
+registration/drop requirements are satisfied.
+10- A student can register for a higher-level course(s) as long as he had satisfied the
+course(s) prerequisites.
+
+Courses Registration Rules
+For the Fall and Spring semesters:
+A student can register in a number of credit hours per semester based on his academic
+performance according to the following criteria:
+• The minimum number of credit hours that you need to register for is 9 credit hours per
+semester.
+• If your CGPA= 3 or you are in your last semester before graduation, you can register in
+21 credit hours after having an approval from the faculty dean.
+• If your 3 >CGPA = 2, you can register in 18 credit hours.
+• If your 2 >CGPA = 1, you can register in 15 credit hours.
+• Otherwise (i.e., 1 >CGPA), you can register in 12 credit hours.
+• In addition to the above-mentioned number of credit hours you are allowed to register for
+an extra course if you previously obtained an Incomplete grade (I) in that course, and this
+is only after faculty council approval.
+For the Summer semester:
+• A student can register for up to 2 courses upon academic advisor approval.
+• If your CGPA = 3, you can register for up to 3 courses upon academic advisor
+approval.
+
+
+
+
+* Course Withdrawal
+1- A student can withdraw from a course(s) he is registered in during a time window
+announced in the academic calendar and upon approval from the academic advisor.
+2- If a withdrawal request is submitted on time and is approved, the student gets a “W”
+(Withdraw) grade in the course.
+3- If a student withdraws a course after the allowed time window with no accepted excuse,
+he fails the course and get “F” (Fail) grade in the course.
+4- A student who withdraws a course is required to re-register for the course for a second
+time if it is a mandatory course.
+5- If the course is elective, the student can choose a different elective course as along as he
+satisfies the program requirements and upon approval from the academic advisor.
+6- A student gets the grade he achieves in the exam of the (re-)registered course.
+
+Incomplete Courses
+For the courses with a final exam, if the student misses the final exam:
+1- For an Incomplete grade “I”, the student retakes the exam the first time it is open. He
+preserves his term work grade and those are eventually added to his final exam grade to
+compute his total grade.
+2- If the student misses the re-take exam with no approved excuse, he gets an “F” (Fail)
+grade in the course.
+3- For the same course, the student is allowed to miss the exam at most twice, those could
+be either separate or consecutive times. If he misses the re-take for the third time, he is
+considered Absent and gets an “F” (Fail) grade in the course.
+4- An exceptional third trial could only be given if approval form the university council.
+
+
+
+* Courses Re-take
+o If a student fails in an elective course, he is allowed to register for another elective upon
+
+approval from his academic advisor as long as he is satisfying the program requirements.
+o If a student fails in a course (i.e., got an “F” grade), he should re-take the course according
+
+to the following rules:
+- Re-taking a course you failed in (course Grade “F”):
+1- The student gets a maximum grade of “B” in his first re-take trial The new grade will be
+
+eventually used to compute his CGPA.
+2- All attempts will appear in the final transcripts.
+3- A student re-taking a course is required to redo all the coursework, satisfy the attendance
+percentage, and sit for the final exam.
+- Re-taking a course you passed but you need to enhance your CGPA to avoid academic
+probation/warning and program dismissal (i.e., CGPA < 2.0)
+1- If the student is re-taking the course for the first time, he/she gets the higher grade he/she
+achieves.
+2- For any following attempts, the student gets a maximum grade of “B”.
+3- All attempts will appear in the final transcripts.
+4- There is no limit for the number of courses you can re-take as long as your CGPA is
+below 2.0.
+- Re-taking a course you passed to enhance your CGPA (i.e., CGPA = 2.0)
+1- If the student is re-taking the course for the first time, he/she gets the highest grade he/she
+achieves.
+2- You have a maximum of 3 courses to re-take for enhancing your CGPA throughout your
+study years.
+3- All attempts will appear in the final transcripts.
+
+
+
+* Drop-out and Leaves
+1- A student is considered on leave from faculty if he doesn’t register in a semester with no
+approved excuse, and this semester is counted from the number of semesters allowed for
+graduation (maximum of 16 regular academic semesters)
+2- A student who presents an approved excuse is allowed a leave for at most 4 consecutive
+semesters or 6 separate semesters (even if some of them are consecutive).
+3- A student can request a leave/drop-out according to university regulations.
+4- A student who is traveling abroad as part of an international agreement with the university
+is not considered on leave.
+5- A student who fails to register during the registration/ addition/ or drop time of a regular
+semester is treated as semester withdrawal.
+
+Academic Warnings and Program Dismissal
+1- If a student’s CGPA is below 2.0 for any semester (except the first semester), he is issued
+an academic warning.
+2- A student who receives 4 academic warnings in 4 consecutive regular semesters or 6
+separate regular semesters is dismissed from the program. An additional chance could be
+grated to the students upon faculty council approval.
+3- A student who fails to satisfy the program requirements and is not able to graduate in at
+most 16 regular semesters (fall and spring) is dismissed from the program. (Note that
+approved study leaves are not counted).
+4- Students subject to program dismissal for any of the above reasons is eligible to register
+for 2 additional regular semesters and a summer semester to fulfill the graduation
+requirements on condition that he/she passed 80% of the total program credit hours and
+upon faculty council approval.
+
+Grading Appeals
+A student can issue a grade appeal (grades revision) within a week from grades announcement
+and on condition that he/she had paid the tuition fees.
+
+
+* Computing and Information Sciences Program
+The Computing and Information Sciences Program is an Undergraduate Bachelor’s Degree
+Credit Hour based program offered by the Faculty of Computing and Information Sciences at
+Egypt University of Informatics.
+
+Graduate Attributes
+A graduate from the Computing and Information Sciences program is expected to acquire a set
+of attributes that differentiate him from graduates of other programs. This set includes but is not
+limited to the following attributes: (additional attributes are acquired when joining a specific
+track).
+1. Be able to apply the fundamental theories and principles of computing and information
+applications.
+2. Be able to integrate and evaluate the computing tools and facilities.
+3. Be able to apply knowledge of mathematics, logic, and statistics to the design, development,
+and analysis of software systems.
+4. Be able to design a computing system - component and process to meet the required needs
+within realistic constraints
+5. Be able to exploit the techniques - skills and up-to-date computing tools - necessary for
+computing and information practice.
+6. Display professional responsibilities and ethical - societal and cultural concerns
+7. Use - compare and evaluate a range of formal and informal techniques - theories and methods
+to develop computing and information applications.
+8. Consider and deal with the individual - social - environmental - organizational and economic
+implications of the application of computing and information.
+22
+
+9. Carry out a work plan with minimal supervision.
+10. Communicate effectively.
+11. Hold knowledge and skills required by the computing and information industry.
+12. Engage in self and life-long learning and research in computing and information.
+13. Fulfil requirements of potential employers.
+
+Teaching Language
+English is the official teaching language in most of the courses offered by the faculty depending
+on the course nature and content. Teaching is English assists our students in their career paths
+and aids the students who plan to pursue their studies abroad.
+
+Program Graduation Requirements
+To graduate from the Computing and Information Sciences program, a student must satisfy the
+following requirements:
+1- Passing a total of 133 credit hours in at least 6 semesters (Fall and Spring) comprising 4
+academic levels of study.
+2- Achieving a CGPA of at least 2.0 at graduation time.
+3- Credit transfer will be applied to students who travel abroad through the Agreement with
+the University of Minnesota Twin Cities (or any other agreements) on condition of
+acquiring a study abroad approval form the faculty council.
+4- Transferred credits shouldn’t exceed 50% of the total number of required credit hours of
+the program.
+5- Passing ALL courses in the program that have “0” credit.
+6- Passing the Graduation Project.
+7- Finishing the required Field Training during the allowed interval(s).
+8- Male students should pass the military training course that is arranged through the
+Egyptian Ministry of Defense.
+
+
+* Grading System
+1- The maximum grade for all courses is 100 points.
+2- Course grade is distributed between different coursework (assignments, quizzes,
+projects, lab, midterm exam, etc.) that worth 60% of the total grade, and a final exam
+that worth 40% of the total grade.
+3- Points distribution among different coursework activities varies depending on the
+nature of each course and is announced to students at the beginning of the course.
+4- Course grade is calculated based on the total number of points acquired in both the
+coursework and final exam.
+5- To pass a course, a student should get at least 30% of the final exam grade. Otherwise,
+he gets an “F” (Fail) grade regardless to him coursework grade.
+6- A student should get at least “D-” (50% of the total course grade) to pass a course.
+7- Grades for courses with 0 credit are as follows:
+Grade
+
+Meaning
+
+P
+
+Pass
+
+F
+
+Fail
+
+W
+
+Withdraw
+
+Abs
+
+Absent from final exam without an
+approved excuse
+
+I
+
+Incomplete
+
+8- Each course has a Letter Grade and a Point Value that are determined according to the
+grade percentage acquired in the course and according to the Grading Scale table
+shown in Error! Reference source not found..
+
+
+
+* Grade percentage
+
+Points
+
+Letter Grade
+
+?????????? = 96
+
+4.0
+
+A+
+
+96 > ?????????? = 92
+
+3.7
+
+A
+
+92 > ?????????? = 88
+
+3.4
+
+A-
+
+88 > ?????????? = 84
+
+3.2
+
+B+
+
+84 > ?????????? = 80
+
+3.0
+
+B
+
+80 > ?????????? = 76
+
+2.8
+
+B-
+
+76 > ?????????? = 72
+
+2.6
+
+C+
+
+72 > ?????????? = 68
+
+2.4
+
+C
+
+68 > ?????????? = 64
+
+2.2
+
+C-
+
+64 > ?????????? = 60
+
+2
+
+D+
+
+60 > ?????????? = 55
+
+1.5
+
+D
+
+55 > ?????????? = 50
+
+1.0
+
+D-
+
+50 > ??????????
+
+0.0
+
+F
+
+Absent without an approved excuse
+
+0.0
+
+Abs
+
+Incomplete Course
+
+No points until course is complete
+
+
+
+* Graduating with Honors
+A student in the Computing and Information Sciences Program graduates with an “Honors
+Degree” if he satisfies the following criteria:
+1- Maintaining a CGPA of at least 3.0 throughout his academic years.
+2- Fulfils his graduation requirements in at most 8 or at least 6 regular academic semesters
+(Fall and Spring).
+3- Never failed in a course throughout his study in the program (Never got an “F” grade).
+4- Never had any disciplinary penalties during his study in the program.
+
+Program Courses
+Each course in the program has a role and fulfils a specific program criterion.
+Each course is assigned a code (Course Code) that identifies the course. The course code is
+designed as follows:
+1- The code starts with the letter “C” which stands for the Faculty of Computing and
+Information Sciences.
+2- The second part of the code is the academic department offering the course.
+(CS: Computer Science, DE: Data Science and Engineering, SW: Software Engineering,
+AI: Artificial Intelligence).
+3- Finally, the code ends with 3 digits encoded as follows:
+a. Left most digit is the level of the course (1,2,3, or 4)
+b. Middle digit is the specialization to which the course belongs.
+c. The right most digit is a digit to identify the course among other courses in the
+same specialization and same level.
+
+* For example, the course Introduction to Computer Security has the code C-CS442 which is
+translated as follows:
+
+C : Course in Faculty of Computing and Information Sciences
+
+CS : Course offered by the Computer Science Department
+
+4 : Level 4 course
+
+
+Courses Classification
+The program courses are divided into different categories according to the National Academic
+Reference Standards (NARS) For Computing and Information requirements as well as the
+dual degree agreement requirements.
+Figure 2 shows the courses classification hierarchy with the number of credit hours of each
+category. The figure also shows both the mandatory and elective courses that the student will
+study thorough out the academic years in the program.
+Samples of the courses in each category are shown, however, a full listing of the courses can be
+found in the faculty bylaw available at the registration office at EUI.
+
+
+Figure 2: Courses Hierarchy
+
+* Program Tracks
+The Computing and Information Sciences Program offers 6 specialization tracks from which
+students are allowed to select one of the tracks based on their preference, the career path they
+wish to join, and the open tracks that satisfy the required minimal number of students registered.
+A track in brief consists of a set of courses that satisfy the requirements of a specialization path.
+Tracks are selected to satisfy the market needs and to bridge the gap between the academia and
+industry. Joining a track entail studying a set of courses that together build the attributes of a
+graduate specialized in this domain.
+All tracks were carefully selected to match with the courses at Minnesota so a traveling student
+can simply continue with his studies without any changes in the approach.
+Courses building a track are offered as Electives and a student along with his academic advisor
+is required to join the track that matches his capabilities and to select the set of electives that
+best suits his course preference.
+Offering different tracks has a two-fold advantage for both the faculty and the students. For the
+faculty, tracks give the institution the freedom to add or remove tracks based on the market
+needs and industry nationally and internationally. From the students’ side, having a range of
+tracks ensures that each student can find the track that fits his dreams and capabilities.
+Students in the Computing and Information Sciences Program can join any of the offered tracks.
+If a student didn’t join a track, he will be considered a student in the “Computer Science” track
+which is the general track offered by the faculty. Students’ transcripts will include the track that
+the student had studied and fulfilled its academic requirements.
+It is important to know that although the academic advisor will help you in your course and
+track selection, the final decision is totally yours. Academic advisors just provide guidance and
+support, but this is your future, and you are the sole decision maker.
+Please refer to the faculty bylaw at the registration office at EUI if you need to know the full listof electives available for the different tracks.
+
+
+
+* Office Hours
+What are office hours?
+Office hours are times that professors (instructors) and teaching assistants schedule outside of
+class to meet with students.
+Office hours are times when you can meet with your professors and teaching assistants to
+discuss the material being presented in class or other related issues of interest you might have.
+You can also meet your academic advisors during their office hours.
+How to use office hours effectively?
+Office hours provide an opportunity for you to meet with your professors and teaching assistants
+specially when you have questions about class content, are confused about practice problems or
+readings, or want to review a paper or exam.
+Office hours give you additional time to better understand your class content and your
+professor’s expectations and can have a big impact on your academic success.
+Office hours can also be an opportunity to get to know your instructor or teaching assistant
+better, especially in online courses and in larger courses.
+Office hours are also an opportunity to meet with your academic advisor to discuss your
+academic progress and discuss any issues or problems you are facing.
+Why attend office hours?
+There are many reasons for you to attend the office hours including:
+1- Clarify and ask questions about course material: if you have problems understanding
+the lecture or solving the problems, you can ask your professor or teaching assistant to
+explain the material in a different way or slower, or even give you more examples.
+2- Get study ideas: You can ask the professor about the best way to study for a specific
+course. He can give you tips that can make your study more efficient and save you time.
+3- Ask questions about the syllabus, upcoming assignments, and due dates: If you are
+confused with the due dates or the materials that will be taught in the course you can ask
+about them.
+4- Prepare for an upcoming project/task. If you have an upcoming project or paper,
+office hours can be an appropriate place to discuss your ideas and your instructor’s
+expectations.
+5- Review an exam paper or your grade Many students do not do as well as they expected
+on papers and exams. Office hours are an appropriate setting to talk about what you did
+wrong, what went well, and how to improve on your next paper or exam. Also, if you are
+unhappy with your grade or have questions about why your grade is what it is, office
+hours are the appropriate place to talk about it.
+
+Your Schedule
+Your schedule is your guide during your day at EUI. At the beginning of each semester, you
+will receive your schedule (timetable) that tells you about your daily schedule at the faculty
+along with the name of the instructor of each course, the teaching assistant teaching the
+tutorial/lab, the room number where the lecture/tutorial will be held, and finally the breaks time.
+Your schedule also includes free slots, those slots are free so that you have time to reach out to
+your instructors and teaching assistants during their office hours to ask for assistance.
+Free labs are also important slots, where you are allowed to enter the computer lab to finish a
+task or work on a project or even search for materials for your courses. Figure 4 shows a sample
+schedule.
+
+* Academic Resources
+Your Textbooks
+- Each course instructor recommends a textbook(s) for the students to help them gain
+deeper understanding of the course.
+- Hard copies of the textbooks is available at EUI library.
+- Access to online soft copies of the textbooks is provided to students.
+- It is always recommended that you have your personal copy of some textbooks that you
+will need throughout your career path. Please consult your faculty members for their
+recommendations regarding which books will be useful for you to have.
+Learning Management System (LMS)
+Canvas is your Learning Management System (LMS) is your main gate to success.
+Once you register as a student at the Faculty of Computing and Information Sciences, you will
+get an account on the LMS. This account will include all the courses you register for each
+semester, your gradebook, along with important announcements.
+Each course will typically include the course materials (lecture notes, assignments, lab
+experiments, etc.). This is also the location where you will find your grades and monitor your
+progress in the course.
+All announcements related to the courses will be communicated with you either through email
+or on LMS.
+It’s important that you always check your LMS for updates and new material uploads.
+
+
+
+* Final Words and Tips
+
+We hope you find this Handbook useful, and we would like to end it with some useful words
+and tips that would help you during your learning journey and would make your university life
+your best time ever.
+
+It’s all about you!
+You’ll find below some helpful pieces of advice and tips which will help you shape and develop
+your own learning strategies and philosophies:
+Time Management: Prepare a weekly schedule that includes time in class, self-studying,
+researching, doing activities, practicing sports (if you do), enjoying hobbies and don’t forget to
+include sometime with your friends. Being a university student is like having a full-time job, so
+several hours of studying and preparation are expected for each class.
+Stress Management: Studying can be stressful at times, so regular exercise, adequate rest, good
+nutrition, prayer and/or meditation are all helpful ways of reducing stress levels and help you
+relax.
+Study Skills: Even some of the high school achievers have not yet developed good and effective
+study skills. Knowing how to read a textbook, take notes in class, use the library resources and
+use those resources efficiently are all areas that you need to develop and strengthen throughout
+your years at university. Don’t worry if you don’t achieve all this in your first year. Most of the
+skills develop all through your lifetime.
+Assertiveness Skills: Speak up for yourself in an assertive and confident manner which is not
+aggressive or allows others to take advantage of you. Assertiveness is a helpful skill in study
+groups, teams and conflict resolution. It makes your voice heard and respectful.
+
+
+
+* Self-Care Skills: Exercise, relaxation and good hygiene are all important aspects of self-care.
+Staying healthy is a key important aspect in life. For example, you need to follow all safety
+precautions to keep yourself safe during, before and after high peaks of Covid-19 pandemic.
+Seeking Assistance When Needed: It is important to know when to ask for help. University
+years are the perfect time for learning new life skills, gaining information, and a new way of
+relating to our world. Seeking help when you need is a sign of strength and integrity, not an
+admission of failure.
+Respecting the Rules and Policies: Every community has its own rules and policies, and our
+campus is no different. Our rules and policies apply to safety and fostering a positive community
+where all students are respectful to themselves, others and the environment.
+Displaying Honesty, Integrity, and Perseverance: Learning to incorporate personal values and
+ethics into every aspect of life is a significant part of your personal growth and expanding your
+experience during college life. Part of the path of integrity is learning how to hold on and stay
+committed to goals even when situations are challenging. Plagiarism is totally forbidden in all
+university tasks and duties and is considered an opposition to honesty and integrity. Cheating is
+forbidden by all means. It would definitely lead to problems that might reach being dismissed
+from the university.
+Engage in Activities: Keep yourself busy in useful activities and hobbies. Join university
+forums, clubs, and sports teams. These are all good opportunities to build good relationships
+with your colleagues and professors, develop and discover your own personality and
+communication techniques, and more importantly enjoy your time.
+
+Wishing you good luck and a successful learning journey!
